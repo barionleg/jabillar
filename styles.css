@@ -1,0 +1,449 @@
+/* Использовано название класса ИСММ вместо Интерактивная схема Московского метрополитена в качестве исключения
+из-за огромного количества используемых классов и их добавления через json.
+Происходит достаточное увеличение загрузки шаблона. */
+
+.ts-ИСММ .imgtogglefull li.imageMapHighlighterArtefacts {
+	line-height: 140%;
+}
+
+.ts-ИСММ .mw-collapsible-toggle-expanded:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/3/33/List_with_minus.svg");
+}
+
+.ts-ИСММ .mw-collapsible-toggle-collapsed:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/f/f2/List_with_plus.svg");
+}
+
+.ts-ИСММ .mw-collapsible-toggle-default:after {
+	content: '';
+}
+
+.ts-ИСММ .imgtogglemini li.imageMapHighlighterArtefacts {
+	font-size:100%
+}
+
+.imgtogglefull .ts-ИСММ-line-1 a {
+	background-color: #fcdcdd;
+}
+
+.imgtogglefull .ts-ИСММ-line-2 a {
+	background-color: #ddf7dd;
+}
+
+.imgtogglefull .ts-ИСММ-line-3 a {
+	background-color: #cfedfe;
+}
+
+.imgtogglefull .ts-ИСММ-line-4 a {
+	background-color: #d8f5ff;
+}
+
+.imgtogglefull .ts-ИСММ-line-4m,
+.imgtogglefull .ts-ИСММ-line-4a {
+	display: none;
+}
+
+.imgtogglefull .ts-ИСММ-line-5 a {
+	background-color: #f3e6da;
+}
+
+.imgtogglefull .ts-ИСММ-line-6 a {
+	background-color: #fceedd;
+}
+
+.imgtogglefull .ts-ИСММ-line-7 a {
+	background-color: #ffc5ff;
+}
+
+.imgtogglefull .ts-ИСММ-line-8 a,
+.imgtogglefull .ts-ИСММ-line-8a a {
+	background-color: #fff9d9;
+}
+
+.imgtogglefull .ts-ИСММ-line-9 a {
+	background-color: #efefef;
+}
+
+.imgtogglefull .ts-ИСММ-line-10 a {
+	background-color: #f3ffd1;
+}
+
+.imgtogglefull .ts-ИСММ-line-11 a {
+	background-color: #ecf5f5;
+}
+
+.imgtogglefull .ts-ИСММ-line-11m,
+.imgtogglefull .ts-ИСММ-line-11a {
+	display: none;
+}
+
+.imgtogglefull .ts-ИСММ-line-12 a {
+	background-color: #f0f3f8;
+}
+
+.imgtogglefull .ts-ИСММ-line-13 a {
+	background-color: #efefff;
+}
+
+.imgtogglefull .ts-ИСММ-line-14 a {
+	border: 1px solid #fbd3d2;
+}
+
+.imgtogglefull .ts-ИСММ-line-15 a {
+	background-color: #fae7f0;
+}
+
+.imgtogglefull .ts-ИСММ-line-16 a {
+	background-color: #c5fef4;
+}
+
+.imgtogglefull .ts-ИСММ-line-17 a {
+	background-color: #d3e0ea;
+}
+
+.imgtogglefull .ts-ИСММ-line-18 a {
+	background-color: #fdd4e4;
+}
+
+.imgtogglefull .ts-ИСММ-AE a {
+	background-color: #dddddd;
+}
+
+.imgtogglefull .ts-ИСММ-MCD1 a {
+	background-color: #fff2d7;
+}
+
+.imgtogglefull .ts-ИСММ-MCD2 a {
+	background-color: #fbe2eb;
+}
+
+.imgtogglefull .ts-ИСММ-MCD3 a {
+	background-color: #fde6d9;
+}
+
+.imgtogglefull .ts-ИСММ-MCD3n,
+.imgtogglefull .ts-ИСММ-MCD3l,
+.imgtogglefull .ts-ИСММ-MCD3c,
+.imgtogglefull .ts-ИСММ-MCD3k,
+.imgtogglefull .ts-ИСММ-MCD3s {
+	display: none;
+}
+
+.imgtogglefull .ts-ИСММ-MCD4 a {
+	background-color: #e1f4ec;
+}
+
+.imgtogglefull .ts-ИСММ-MCD4n,
+.imgtogglefull .ts-ИСММ-MCD4s,
+.imgtogglefull .ts-ИСММ-MCD4w,
+.imgtogglefull .ts-ИСММ-MCD4e {
+	display: none;
+}
+
+.imgtogglefull .ts-ИСММ-MCD4a {
+	display: none;
+}
+
+.imgtogglefull .ts-ИСММ-MCD5 a {
+	background-color: #eaf7db;
+}
+
+.ts-ИСММ-train a, .ts-ИСММ-aero a {
+	border: 1px solid blue;
+	color: black;
+}
+
+.ts-ИСММ .imgtogglefull li:hover {
+	background: transparent;
+}
+
+.imgtogglefull .ts-ИСММ-default a:hover {
+	background: yellow;
+}
+
+.imgtogglefull .ts-ИСММ-line-1 a:hover {
+	background-color: #ef161e;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-2 a:hover {
+	background-color: #2dbe2c;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-3 a:hover {
+	background-color: #0078be;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-4 a:hover {
+	background-color: #00bfff;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-5 a:hover {
+	background-color: #8d5b2d;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-6 a:hover {
+	background-color: #ed9121;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-7 a:hover {
+	background-color: #800080;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-8 a:hover,
+.imgtogglefull .ts-ИСММ-line-8a a:hover {
+	background-color: #ffd702;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-9 a:hover {
+	background-color: #999999;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-10 a:hover {
+	background-color: #99cc00;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-11 a:hover {
+	background-color: #82c0c0;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-12 a:hover {
+	background-color: #a1b3d4;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-13 a:hover {
+	background-color: #9999ff;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-14 a:hover {
+	border: 1px solid #ee2722;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-15 a:hover {
+	background-color: #de64a1;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-line-16 a:hover {
+	background-color: #017864;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-17 a:hover {
+	background-color: #1b2b38;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-line-18 a:hover {
+	background-color: #d00755;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-AE a:hover {
+	background-color: black;
+	color: white;
+}
+
+.imgtogglefull .ts-ИСММ-MCD1 a:hover {
+	background-color: #f6a600;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-MCD2 a:hover {
+	background-color: #e74280;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-MCD3 a:hover {
+	background-color: #e95b0c;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-MCD4 a:hover {
+	background-color: #40b280;
+	color: black;
+}
+
+.imgtogglefull .ts-ИСММ-MCD5 a:hover {
+	background-color: #77b729;
+	color: black;
+}
+
+.ts-ИСММ .mw-collapsible a.mw-collapsible-text:before,
+.ts-ИСММ .mw-collapsed a.mw-collapsible-text:before,
+.ts-ИСММ .mw-collapsible-toggle-default:before,
+.ts-ИСММ-line:before,
+.popup-extend:before,
+.shrink:before {
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 13px;
+    margin-right: 4px;
+    vertical-align: text-bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+}
+
+.ts-ИСММ-line-1:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/8/8a/Moskwa_Metro_Line_1.svg");
+}
+
+.ts-ИСММ-line-2:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/c/cf/Moskwa_Metro_Line_2.svg");
+}
+
+.ts-ИСММ-line-3:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/8/8f/Moskwa_Metro_Line_3.svg");
+}
+
+.ts-ИСММ-line-4:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/1/12/Moskwa_Metro_Line_4.svg");
+}
+
+.ts-ИСММ-line-5:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/0/0d/Moskwa_Metro_Line_5.svg");
+}
+
+.ts-ИСММ-line-6:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/e/eb/Moskwa_Metro_Line_6.svg");
+}
+
+.ts-ИСММ-line-7:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/e/ef/Moskwa_Metro_Line_7.svg");
+}
+
+.ts-ИСММ-line-8:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/4/43/Moskwa_Metro_Line_8.svg");
+}
+
+.ts-ИСММ-line-8a:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/8/82/Moskwa_Metro_Line_8A.svg");
+}
+
+.ts-ИСММ-line-9:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/0/02/Moskwa_Metro_Line_9.svg");
+}
+
+.ts-ИСММ-line-10:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/0/02/Moskwa_Metro_Line_10.svg");
+}
+
+.ts-ИСММ-line-11:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/4/4b/Moskwa_Metro_Line_11.svg");
+}
+
+.ts-ИСММ-line-12:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/4/4b/Moskwa_Metro_Line_12.svg");
+}
+
+.ts-ИСММ-line-13:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/e/e2/Moskwa_Metro_Line_13.svg");
+}
+
+.ts-ИСММ-line-14:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/57/Moskwa_Metro_Line_14.svg");
+}
+
+.ts-ИСММ-line-15:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/1/12/Moskwa_Metro_Line_15.svg");
+}
+
+.ts-ИСММ-line-16:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/d/da/Moskwa_Metro_Line_16.svg");
+}
+
+.ts-ИСММ-line-17:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/4/48/Moskwa_Metro_Line_17.svg");
+}
+
+.ts-ИСММ-line-18:before {
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/b/b7/Moskwa_Metro_Line_18.svg");
+}
+
+.ts-ИСММ-AE:before {
+	width: 11px;
+    height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/58/Aeroexpress_logo.svg");
+}
+
+.ts-ИСММ-MCD1:before {
+	width: 22px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/d/db/Moskwa_Metro_Line_D1.svg");
+}
+
+.ts-ИСММ-MCD2:before {
+	width: 22px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/8/8e/Moskwa_Metro_Line_D2.svg");
+}
+
+.ts-ИСММ-MCD3:before {
+	width: 22px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/b/b1/Moskwa_Metro_Line_D3.svg");
+}
+
+.ts-ИСММ-MCD4:before {
+	width: 22px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/9/9b/Moskwa_Metro_Line_D4.svg");
+}
+
+.ts-ИСММ-MCD5:before {
+	width: 22px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/5/51/Moskwa_Metro_Line_D5.svg");
+}
+
+.ts-ИСММ .imgtogglemini li {
+	clear: both;
+}
+
+.ts-ИСММ-future {
+	font-style: italic;
+}
+
+.imgtogglemini .ts-ИСММ-local-page {
+	display: none
+}
+
+.ts-ИСММ-station-local-page {
+	border: 1px solid #FF0000;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 0, 0, 0.2);
+	cursor: not-allowed !important;
+}
+
+.ts-ИСММ-line-local-page {
+	cursor: not-allowed !important;
+}
+
+.popup-extend:before {
+	width: 15px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/a/ac/VisualEditor_-_Icon_-_Zoom%2BOOjs.svg");
+}
+
+.shrink:before {
+	width: 15px;
+	height: 14px;
+	background-image: url("//upload.wikimedia.org/wikipedia/commons/2/2c/VisualEditor_-_Icon_-_Zoom-OOjs.svg");
+}
+
+/* [[Категория:Шаблоны:Подстраницы CSS]] */
